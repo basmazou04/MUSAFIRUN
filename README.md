@@ -13,10 +13,3 @@ Musafirun és una aplicació Android orientada a viatgers per centralitzar organ
 - Ajustos de perfil, idioma i tema
 - Base per funcionalitats premium (guardades/compartides/favorites)
 
-## Tecnologies
-- Kotlin
-- Android (Fragments, RecyclerView, Material Components)
-- Firebase (Auth / Firestore / Storage)
-
-## Estat
-Versió acadèmica en desenvolupament (Projecte Lliure).
