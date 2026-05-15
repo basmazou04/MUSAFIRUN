@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nav_blue">#4A7092</color>
+    <color name="screen_background">#C6BCF7</color>
+    <color name="surface_card">#FAFAFB</color>
+    <color name="surface_icon_bg">#EAECEE</color>
+    <color name="text_primary">#1F2933</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_on_surface">#1F2933</color>
+    <color name="title_text">#000000</color>
+    <color name="stroke_color">#C5CBD3</color>
+    <color name="button_tint">#3F6E98</color>
+    <color name="link_color">#1E88E5</color>
+    <color name="section_surface">#E2E5E9</color>
+    <color name="nav_bar_bg">#ECEEF1</color>
+    <color name="nav_bar_stroke">#FFD5D9DF</color>
+    <color name="icon_on_primary">#000000</color>
+    <color name="icon_on_primary_muted">#000000</color>
+    <color name="orb_glow_color">#99D0D6DD</color>
+    <color name="title_decorated_bg">#80F0F2F4</color>
+    <color name="title_decorated_stroke">#FFBFC6CF</color>
+    <color name="title_decorated_soft_bg">#99F4F5F7</color>
+    <color name="title_decorated_soft_stroke">#FFD0D5DC</color>
+    <color name="top_bar_bg">#DCEBFA</color>
+    <color name="input_bg">#FFFFFFFF</color>
+    <color name="input_stroke">#CBD5E0</color>
+</resources>

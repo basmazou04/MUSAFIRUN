@@ -1,0 +1,27 @@
+﻿# Android / IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin/Java build
+**/build/
+
+# Gradle local caches
+.gradle-local/
+.gradle-project-cache/
+
+# Kotlin daemon
+.kotlinc/
+.ksp/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db

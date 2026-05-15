@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@color/surface_card"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:layout_width="58dp"
+        android:layout_height="58dp"
+        android:contentDescription="@string/agency_logo_desc"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ojodenomada" />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_weight="1"
+        android:text="@string/agency_ojo_nomada"
+        android:textColor="@color/text_primary"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ivAgency3Web"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_marginEnd="12dp"
+        android:contentDescription="@string/agency_open_website"
+        android:src="@android:drawable/ic_menu_view" />
+
+    <ImageView
+        android:id="@+id/ivAgency3Instagram"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:contentDescription="@string/agency_open_instagram"
+        android:src="@android:drawable/ic_menu_camera" />
+</LinearLayout>
